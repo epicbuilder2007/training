@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>59.png</filename>
+	<path>/home/epicbuilder2007/PycharmProjects/train/images/59.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>84</width>
+		<height>71</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Iridium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>8</ymin>
+			<xmax>79</xmax>
+			<ymax>65</ymax>
+		</bndbox>
+	</object>
+</annotation>

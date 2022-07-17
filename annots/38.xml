@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>38.png</filename>
+	<path>/home/epicbuilder2007/PycharmProjects/train/images/38.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>101</width>
+		<height>75</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carbon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>6</ymin>
+			<xmax>89</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>

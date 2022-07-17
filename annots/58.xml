@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>58.png</filename>
+	<path>/home/epicbuilder2007/PycharmProjects/train/images/58.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>94</width>
+		<height>90</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Silicate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>19</ymin>
+			<xmax>87</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+</annotation>
